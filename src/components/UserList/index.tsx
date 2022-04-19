@@ -26,24 +26,24 @@ const UserList: React.FC = () => {
       <UserRow nickname="Dante Alves" />
 
       <Role>Offline - 18</Role>
-      <UserRow nickname="Caio Phillipo" isBot />
-      <UserRow nickname="Eduardo Matos" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
-      <UserRow nickname="Embucete" />
+      <UserRow nickname="Eren" isBot />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
+      <UserRow nickname="Armin" />
     </Container>
   );
 };
